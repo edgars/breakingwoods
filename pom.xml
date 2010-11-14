@@ -28,6 +28,12 @@
             <name>Alexandre Porcelli</name>
             <email>alexandre.porcelli@gmail.com</email>
         </developer>
+
+        <developer>
+                    <name>Frederico Melo</name>
+                     <email>fredmelo@gmail.com</email>
+          </developer>
+
     </developers>
     <licenses>
         <license>
@@ -92,7 +98,8 @@
             <releases>
                 <enabled>true</enabled>
                 <updatePolicy>never</updatePolicy>
-            </releases>
+             
+             </releases>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>never</updatePolicy>
